@@ -3,8 +3,6 @@
 > I'm a full front-end developer, specializing in react technology and its ramifications
 produce content to help people evolve in programming.
 
-🔭 I'm working on a project for a university in São Paulo, which will be a classroom management and an area for students with a dashboard interface
-
 
 💬 Welcome and bring your experiences to collaborate with me and bring great results for both.
 
